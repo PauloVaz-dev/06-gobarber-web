@@ -2,7 +2,7 @@
 
 Nessa aula, voltamos a desenvolver nossa aplicação. Aqui desenvolvemos a algumas páginas da aplicação web do nosso "GoBarber".
 
-![Imagem](https://github.com/PauloVaz-dev/06-gobarber-web/images/browser_auls06.gif?raw=true)
+![Imagem](https://github.com/PauloVaz-dev/06-gobarber-web/blob/main/imagens/GoBarber.gif?raw=true)
 
 
 ## Ferramentas utilizadas no projeto
