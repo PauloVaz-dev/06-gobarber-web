@@ -1,6 +1,6 @@
 # Aula 06 - GoBarber Web
 
-Neste projeto foi desenvolvido a algumas páginas da aplicação web chamdo "GoBarber".
+Neste projeto foi desenvolvido algumas páginas da aplicação web chamdo "GoBarber".
 
 ![Imagem](https://github.com/PauloVaz-dev/06-gobarber-web/blob/main/imagens/GoBarber.gif?raw=true)
 
