@@ -1,6 +1,6 @@
 # Aula 06 - GoBarber Web
 
-Nessa aula, voltamos a desenvolver nossa aplicação. Aqui desenvolvemos a algumas páginas da aplicação web do nosso "GoBarber".
+Neste projeto foi desenvolvido a algumas páginas da aplicação web chamdo "GoBarber".
 
 ![Imagem](https://github.com/PauloVaz-dev/06-gobarber-web/blob/main/imagens/GoBarber.gif?raw=true)
 
@@ -29,7 +29,7 @@ Nessa aula, voltamos a desenvolver nossa aplicação. Aqui desenvolvemos a algum
 * Gerenciador de pacotes ([Yarn](https://yarnpkg.com/))
 * [Back-end](https://github.com/thiagocdn/aulas-bootcamp-GoStack11-rocketseat/tree/master/04-iniciando-back-end)
 
-**Para executar esse projeto você vai precisar do projeto da [aula 4](https://github.com/thiagocdn/aulas-bootcamp-GoStack11-rocketseat/tree/master/04-iniciando-back-end) rodando*
+**Para executar esse projeto você vai precisar do projeto da [aula 4]() rodando*
 
 #### Procedimento
 1. Abra um terminal e navegue até a raíz do projeto.
@@ -66,3 +66,23 @@ Caso queira excluir as informações, clique na "Key" "@GithubExplorer[...]' e p
 
 
 ![Imagem](https://github.com/thiagocdn/aulas-bootcamp-GoStack11-rocketseat/blob/master/05-primeiro-projeto-react/images/LocalStorage.png?raw=true)
+
+## Como contribuir
+
+- Faça um fork desse repositório;
+- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
+- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
+- Faça push para a sua branch: `git push origin minha-feature`.
+
+Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
+
+
+## Author:
+
+* **Paulo Vaz** - [LinkedIn](https://www.linkedin.com/in/paulo-vaz-05296a46/)
+
+
+
+## Licença
+
+Este projeto é licenciado sobre a licença MIT - veja [LICENSE.md](LICENSE.md) para mais informações.
